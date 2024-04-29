@@ -1,0 +1,85 @@
+{
+    "journal": {
+      "nomJournal": "Gunpla World Actu",
+      "phraseAccroche": "Votre source d'informations sur l'univers des Gunplas",
+      "texteAppelAction": "Inscrivez-vous pour recevoir notre newsletter et rester à jour sur les dernières sorties et actualités des Gunplas !",
+      "articlePrincipal": {
+        "titre": "Les nouvelles sorties et kits Gunpla du mois : les incontournables à ne pas manquer",
+        "description": "Découvrez les dernières annonces, les critiques et les astuces de montage pour les Gunplas.",
+        "date": "25 Avril 2024",
+        "theme": "Actualités Gunpla",
+        "image":""
+      },
+      "articles": [
+        {
+          "titre": "Guide du débutant : conseils pour commencer dans l'univers des Gunplas",
+          "date": "20 Avril 2024",
+          "theme": "Débutants",
+          "image":""
+        },
+        {
+          "titre": "Entretien avec un modéliste expert : techniques avancées de peinture et de modification",
+          "date": "15 Avril 2024",
+          "theme": "Modélisme",
+          "image":""
+        },
+        {
+          "titre": "Top 10 des Gunplas les plus populaires du moment",
+          "date": "5 Avril 2024",
+          "theme": "Populaires",
+          "image":""
+        },
+        {
+          "titre": "Analyse : l'évolution des techniques de conception des Gunplas au fil des ans",
+          "date": "28 Mars 2024",
+          "theme": "Évolution",
+          "image":""
+        },
+        {
+          "titre": "Les prochains événements Gunpla à ne pas manquer",
+          "date": "20 Mars 2024",
+          "theme": "Événements",
+          "image":""
+        }
+      ],
+      "themes": [
+        {
+          "nom": "Débutants",
+          "description": "Conseils, tutoriels et guides pour les débutants qui souhaitent se lancer dans le hobby des Gunplas."
+        },
+        {
+          "nom": "Modélisme",
+          "description": "Entretiens, techniques avancées et astuces de modélisme pour améliorer vos Gunplas et créer des œuvres uniques."
+        },
+        {
+          "nom": "Populaires",
+          "description": "Revues des Gunplas les plus populaires du moment, avec des critiques détaillées et des recommandations d'achat."
+        },
+        {
+          "nom": "Évolution",
+          "description": "Analyses et rétrospectives sur l'évolution des techniques de conception, des styles et des tendances dans le monde des Gunplas."
+        },
+        {
+          "nom": "Événements",
+          "description": "Annonces et couverture des événements Gunpla, y compris les expositions, les concours et les sorties spéciales."
+        }
+      ],
+      "auteurs": [
+        {
+          "prenom": "Hiro",
+          "typeExperience": "Modéliste professionnel",
+          "presentation": "En tant que modéliste expérimenté, je partage mes connaissances et mes techniques pour aider les passionnés de Gunpla à améliorer leurs compétences et leurs réalisations."
+        },
+        {
+          "prenom": "Yumi",
+          "typeExperience": "Gunpla addict",
+          "presentation": "Passionnée de Gunpla, je vous offre des critiques, des conseils de montage et des actualités pour vous aider à explorer l'univers des Gunplas."
+        },
+        {
+          "prenom": "Kenji",
+          "typeExperience": "Collectionneur de Gunplas",
+          "presentation": "En tant que collectionneur passionné de Gunplas, je partage mes découvertes, mes coups de cœur et mes conseils pour enrichir votre collection."
+        }
+      ]
+    }
+  }
